@@ -1,1 +1,1 @@
-# anytype-rust
+# `anytype`
